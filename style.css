@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.w-50{
+    width: 50%;
+    float: left;
+}
+.container{
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+}
+.w-30{
+    width: 30%;
+    height: 300px;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.second-area{
+    box-sizing: border-box;
+    margin-top: 8%;
+}
+.second-area>h1{
+    text-align: center;
+    margin-bottom: 4%;
+}
+.orange{
+    color: orange;
+}
+.first-area{
+    padding-top: 3%;
+    overflow: hidden;
+}
+#first-img{
+    width: 80%;
+    height: 400px;
+    padding-left: 5%;
+}
+
+.padding-top{
+    padding-top: 70px;
+
+}
+.first-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background: red;
+    border-radius: 5px;
+    color: #ffff;
+    font-weight: 800;
+}
+
+#margin{
+    margin-top: 8%;
+}
+#background-1{
+    background: #edf5f6;
+    padding: 15px;
+}
+#background-2{
+    background: #ffeeee;
+    padding: 15px;
+    margin: 0 3%;
+}
+#background-3{
+    background: #fff4d6;
+    padding: 15px;
+}
+.mvg-img{
+    width: 150px;
+    height: 150px;
+}
+#third-img{
+    width: 90%;
+    height: 350px;
+}
+.third-area{
+    overflow: hidden;
+    box-sizing: border-box;
+    margin-top: 7%;
+}
+.third-area p{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.margin-bottom{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.forth-area{
+    margin-top: 7%;
+}
+.forth-img{
+    padding-left: 10px;
+    width: 80%;
+    height: 350px;
+}
+#fifth-img{
+    width: 90%;
+    height: 430px;
+}
+.fifth-area{
+    margin-top: 6%;
+    padding-bottom: 20px;
+}
+.footer-area{
+    text-align: center;
+    background: #e67e22;
+    overflow: hidden;
+}
+.footer-color{
+    color: #fff;
+}
